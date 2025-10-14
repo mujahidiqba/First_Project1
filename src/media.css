@@ -1,0 +1,230 @@
+@media only  screen and (min-width:200px) and (max-width:1000px) {
+
+.logo{
+  /* width: 100px; */
+
+}
+.t1 h3{
+  font-weight: 600;
+  font-size: 30px;
+  word-spacing: 3%;
+
+}
+.t1 h1{
+  font-weight: 600;
+  font-size: 40px;
+  word-spacing: 3%;
+  
+}
+.text br{
+      display: none;
+}
+.A190{
+    border-right:none ;
+}
+.main img{
+  /* background-image: url(./img/f6.png); */
+  /* object-fit: cover; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  /* height: 150px; */
+  /* width: 300px; */
+/* top: 0 !important; */
+
+}
+/* .main2 img{
+width: 180px;
+left: 5px;
+top: 0% !important;
+} */
+
+.text6 h6{
+      font-size: 11px;
+      font-weight: 700;
+
+}
+.text-2 h1{
+  font-weight: 700;
+  font-size: 35px;
+}
+.btn3{
+  color: rgba(254, 95, 0, 1);
+  border: 1px solid rgba(157, 192, 202, 0.308);
+  font-weight: 600;
+  font-size: 16px;
+}
+.text4 #p1{
+      font-weight: 400;
+      font-size: 24px;
+}
+.text4 #p2{
+      font-weight: 700;
+      font-size: 24px;
+}
+.text4 br{
+  display: none;
+}
+.btn4{
+  font-weight: 600;
+  font-size: 19px;
+}
+.text5 h3{
+  font-weight: 700;
+  font-size: 35px;
+
+}
+.btn  button{
+  display: none;
+}
+.reverse{
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+.text7 #p2{
+  font-weight: 700;
+  font-size: 35px;
+
+}
+.text8{
+  display:none !important  ;
+}
+.Tells{
+  flex-wrap: wrap;
+}
+.co2{
+    width: 100% !important;
+  }
+  .At h3{
+    font-weight: 700;
+    font-size: 25px;
+
+  }
+  .line{
+    padding-top: 0 !important;
+    width:400px
+  }
+  .direction{
+        position: relative !important;
+        
+    }
+    .btn7{
+      position: absolute;
+      bottom: 0px !important;
+        /* width: 100% !important; */
+        left: 35% !important;
+        justify-content: center !important;
+    }
+
+
+
+}
+
+
+@media only  screen and (min-width:200px) and (max-width:600px){
+  .error{
+    width: 300px !important;
+    
+  }
+  .main5{
+    /* width: 100%; */
+  }
+  .terror{
+    text-align: center !important;
+  }
+  .error2{
+    width: 500px !important;
+    text-align: center !important;
+  }
+  .error2 br{
+    display: none;
+    /* text-align: end; */
+  }
+  .co2{
+    width: 100% !important;
+  }
+  .At{
+    width: 100% !important;
+  }
+  .girl{
+    width: 100% !important;
+
+  }
+  .line{
+    width:400px
+  }
+  .btn  button{
+  display: none;
+}
+}
+
+
+
+
+@media only  screen and (min-width:200px) and (max-width:600px){
+  .girl{
+    /* width: 10000px !important; */
+  }
+  .what .legal1{
+
+    /* text-align: center; */
+}
+.gap{
+  gap: 30px;
+  /* display: flex !important;                      */
+  /* justify-content:center; */
+}
+.Faq{
+  text-align: center !important;
+}
+}
+.main img{
+  /* width: 300px; */
+}
+.main2 img{
+  /* top: 60px !important; */
+  /* width: 170px; */
+  /* top: 70px !important; */
+
+}
+.main3{
+  /* top: 50px !important; */
+
+}
+
+
+
+
+
+
+
+  
+@media only  screen and (min-width:800px) and (max-width:1000px){
+ .main2 {
+  /* margin-top: 20px; */
+  /* padding-right: 30px; */
+  /* width: 180px; */
+ }
+}
+@media only  screen and (min-width:1000px) and (max-width:1400px){
+ .main2 img{
+  
+  /* width: 190px; */
+ }
+}
+@media only  screen and (min-width:200px) and (max-width:600px){
+    .main2 {
+      /* left: 15px; */
+  /* padding-right: 50px; */
+  /* margin-right: 20px; */
+
+  /* width: 160px; */
+  /* margin-top: 60px; */
+
+}
+
+ .main2 img{
+  /* height: 60px; */
+   }
+}

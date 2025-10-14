@@ -1,0 +1,39 @@
+.Hotspot button{
+    /* text-size-adjust: 20px; */
+    font-weight: 500;
+   
+}
+.Hotspot button span{
+   
+    padding: 0%;
+    margin: 0%;
+    font-weight:1 ;
+    font-size: 0.3;
+    background-color: red !important;
+    line-height: 1px;
+   
+}
+.Hotspot button span:hover{
+    color: aliceblue;   
+   
+   
+}
+
+.Hotspot button:hover{
+   color:rgba(255, 255, 255, 1);
+   background-color: rgba(254, 95, 0, 1);
+
+   
+}
+
+.refresh i{
+    /* transition: rotate(120deg); */
+    transform: rotate(600deg);
+
+}
+.Additional button:hover{
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(254, 95, 0, 1);
+    border-radius: 20px;
+}
+
