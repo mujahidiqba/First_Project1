@@ -18,4 +18,4 @@ Run locally
 npm install
 npm run dev
 Live demo
-Not deployed yet — demo link to be added.
+Deployed on Vercel: https://first-project1-brown.vercel.app
